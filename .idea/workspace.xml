@@ -15,7 +15,11 @@
     </option>
   </component>
   <component name="GOROOT" path="C:\Program Files\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="25zs8Kk92q0Vbclpdvhkdu0HRL0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,6 +32,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="go build x01_Fibonacci.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -49,21 +54,33 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2005" height="295" key="GridCell.Tab.0.bottom" timestamp="1646541541245">
+    <state x="896" y="450" key="Github.ShareDialog" timestamp="1646541611383">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
-    <state width="2005" height="295" key="GridCell.Tab.0.bottom/0.0.2048.1104@0.0.2048.1104" timestamp="1646541541245" />
-    <state width="2005" height="295" key="GridCell.Tab.0.center" timestamp="1646541541245">
+    <state x="896" y="450" key="Github.ShareDialog/0.0.2048.1104@0.0.2048.1104" timestamp="1646541611383" />
+    <state x="885" y="256" key="Github.UntrackedFilesDialog" timestamp="1646541614854">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
-    <state width="2005" height="295" key="GridCell.Tab.0.center/0.0.2048.1104@0.0.2048.1104" timestamp="1646541541245" />
-    <state width="2005" height="295" key="GridCell.Tab.0.left" timestamp="1646541541244">
+    <state x="885" y="256" key="Github.UntrackedFilesDialog/0.0.2048.1104@0.0.2048.1104" timestamp="1646541614854" />
+    <state width="2005" height="295" key="GridCell.Tab.0.bottom" timestamp="1646541626611">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
-    <state width="2005" height="295" key="GridCell.Tab.0.left/0.0.2048.1104@0.0.2048.1104" timestamp="1646541541244" />
-    <state width="2005" height="295" key="GridCell.Tab.0.right" timestamp="1646541541245">
+    <state width="2005" height="295" key="GridCell.Tab.0.bottom/0.0.2048.1104@0.0.2048.1104" timestamp="1646541626611" />
+    <state width="2005" height="295" key="GridCell.Tab.0.center" timestamp="1646541626610">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
-    <state width="2005" height="295" key="GridCell.Tab.0.right/0.0.2048.1104@0.0.2048.1104" timestamp="1646541541245" />
+    <state width="2005" height="295" key="GridCell.Tab.0.center/0.0.2048.1104@0.0.2048.1104" timestamp="1646541626610" />
+    <state width="2005" height="295" key="GridCell.Tab.0.left" timestamp="1646541626610">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="295" key="GridCell.Tab.0.left/0.0.2048.1104@0.0.2048.1104" timestamp="1646541626610" />
+    <state width="2005" height="295" key="GridCell.Tab.0.right" timestamp="1646541626610">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="295" key="GridCell.Tab.0.right/0.0.2048.1104@0.0.2048.1104" timestamp="1646541626610" />
+    <state x="526" y="197" key="SettingsEditor" timestamp="1646541653704">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state x="526" y="197" key="SettingsEditor/0.0.2048.1104@0.0.2048.1104" timestamp="1646541653704" />
   </component>
 </project>
